@@ -7,7 +7,7 @@ Each slot in the array is a randomly generated value.
 
 # How It Works
 
-Create an instance of the class ArrayGenerator and use instance top initilaze a new array. 
+Create an instance of the class ArrayGenerator and use that instance to initilaze a new array. 
 
 ![alt text](integerExample.png)
 
