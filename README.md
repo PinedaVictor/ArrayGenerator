@@ -11,3 +11,5 @@ Create an instance of the class ArrayGenerator and use that instance to initilaz
 
 ![alt text](integerExample.png)
 
+# License
+[BSD 3-Clause](https://github.com/PinedaVictor/ArrayGenerator/blob/master/LICENSE)
